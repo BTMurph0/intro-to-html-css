@@ -1,0 +1,111 @@
+body {
+    background-image: url("6196067-tropical-jungle-scene.jpg");
+}
+
+#babyorangutan {
+    height: 500px;
+    width: 750px;
+    border-radius: 50%;
+}
+
+#bigorangutan {
+    height: 500px;
+    width: 750px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  img {
+    border: 15px solid #6e1f1f;
+  }
+
+  .header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(228, 125, 8);
+    padding: 25px;
+    margin: 10px;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 100px
+  }
+
+  h2 {
+    font-size: 50px;
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+
+  p {
+    color: rgb(184, 127, 179);
+    font-size: 30px;
+  }
+
+  .text {
+    margin: 100px;
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+  }
+
+  a {
+    font-size: 20px;
+  }
+
+  a:hover {
+    color: aquamarine;
+    font-size: 50px;
+  }
+
+  ul.myUl {
+    color: rgb(48, 148, 23);
+    display: inline-block;
+    text-align: left;
+    font-size: 40px;
+    font-family: "Sofia", sans-serif;
+  }
+
+  ol.myOl {
+    color: red;
+    display: inline-block;
+    text-align: left;
+    font-size: 40px;
+    font-family: "Sofia", sans-serif;
+  }
+
+  div.container {
+    text-align: center;
+  }
+
+  .grid-container {
+    display: grid;
+  }
+
+  .grid-item1 {
+    grid-column: 1;
+    background-image: url("banaas.jpg");
+  }
+
+  .grid-item2 {
+    grid-column: 2;
+    background-image: url("deforestation.jpg");
+  }
+
+  .backToTop {
+    text-align: center;
+  }
+
+  .resource-link {
+    text-align: center;
+  }
+
+  footer {
+    padding-bottom: 200px;
+  }
